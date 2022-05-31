@@ -1,9 +1,4 @@
-interface User {
-  name: string;
-  username: string;
-  email: string;
-  password: string;
-}
+import { User } from "../types/interfaces";
 
 export const singleUser: User = {
   name: "admin",

@@ -1,6 +1,4 @@
-interface customError {
-  response: { status: number; data: { message: string } };
-}
+import { customError } from "../types/interfaces";
 
 export const customErrorApi = ({
   response: {
