@@ -63,7 +63,8 @@
       "!coverage/*/.tsx",
       "!src/**/*.test.tsx",
       "!src/**/*.test.tsx.snap",
-      "!src/react-app-env.d.ts"
+      "!src/react-app-env.d.ts",
+      "!src/types/interfaces.ts"
     ]
   }
 }
