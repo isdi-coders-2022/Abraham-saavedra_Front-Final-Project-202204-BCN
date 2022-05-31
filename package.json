@@ -59,12 +59,9 @@
       "!src/index.tsx",
       "!src/reportWebVitals.ts",
       "!src/setupTests.tsx",
-      "!.eslintrc.tsx",
-      "!coverage/*/.tsx",
-      "!src/**/*.test.tsx",
-      "!src/**/*.test.tsx.snap",
       "!src/react-app-env.d.ts",
-      "!src/types/interfaces.ts"
+      "!src/types/interfaces.ts",
+      "!src/redux/hooks.ts"
     ]
   }
 }
